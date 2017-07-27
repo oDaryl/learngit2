@@ -1,14 +1,10 @@
 # Created by .ignore support plugin
 # file
-file/cache
-file/session
-Runtime
-test.txt
 
-.htaccess
-index.html
-baidunews.xml
-sitemaps.xml
 README.md
 
-.idea
+Runtime
+test.txt
+application\config.php
+application\database.php
+application\route.php
