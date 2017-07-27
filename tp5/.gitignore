@@ -3,6 +3,7 @@
 file/cache
 file/session
 Runtime
+test.txt
 
 .htaccess
 index.html
