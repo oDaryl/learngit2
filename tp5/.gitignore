@@ -1,0 +1,10 @@
+# Created by .ignore support plugin
+# file
+
+README.md
+
+Runtime
+test.txt
+application\config.php
+application\database.php
+application\route.php
